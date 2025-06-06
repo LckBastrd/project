@@ -1,6 +1,6 @@
 # Depression Detection from Reddit Posts using Machine Learning
 
-This project is part of my Machine Learning course final project.  
+This code is my Machine Learning course final project.  
 The goal is to automatically detect signs of depression in Reddit user posts using a machine learning model.
 
 ---
